@@ -1,5 +1,6 @@
  
 Thuan Nguyen + Vi Phung
+
 ## Video WalkThrough
 Here's a walkthrough of implemented user stories:
 
